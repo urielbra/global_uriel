@@ -15,3 +15,5 @@ b=input("Digite um valor para B: ");
 b=int(b);
 
 funcao(a,b);
+
+print("A função funcionou bem ?");
